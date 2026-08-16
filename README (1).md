@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/5a9dead0-5319-4473-9fe2-d546097febf6" /><div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+ /><div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
     <img
         width="180"
         height="220"
