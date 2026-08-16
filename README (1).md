@@ -121,28 +121,23 @@ Overall, the LST and SST sessions helped me improve my **confidence, communicati
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I had the opportunity to participate in various community-oriented activities that encouraged social responsibility and active involvement in society. These activities provided valuable experiences beyond the technical aspects of the internship and helped me understand the importance of contributing positively to the community.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+* **Blood Donation Drive** – Participated in a blood donation camp and contributed by donating blood and assisting with basic activities during the event.
 
-<!-- you can write impacts according to your experience in your words-->
+* **Tree Plantation Drive** – Took part in a tree plantation initiative by planting saplings and contributing towards environmental conservation and the development of greener surroundings.
+
+* **Supporting Elderly Citizens** – Assisted elderly individuals with basic daily activities and provided support wherever required, helping create a more comfortable and supportive environment for them.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+* Contributed to the blood donation initiative and supported the smooth functioning of the camp.
+* Participated in environmental conservation through tree plantation activities.
+* Provided assistance and companionship to elderly citizens in their daily activities.
+* Developed a stronger sense of **social responsibility, empathy, teamwork, communication, and community involvement**.
+
 
 ### **Photos**
 
