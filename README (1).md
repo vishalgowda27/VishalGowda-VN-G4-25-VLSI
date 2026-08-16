@@ -108,10 +108,16 @@ This project involved designing and developing a basic functional module using t
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+### **Life Skill Training (LST)**
+
+As part of the course, I attended Life Skill Training sessions that focused on personal development and building awareness of important skills required in both professional and everyday life. The sessions covered areas such as professional ethics, workplace behaviour, emotional intelligence, personality development, health and well-being, social responsibility, and effective interpersonal relationships. These sessions helped me develop a better understanding of professional conduct, self-awareness, emotional management, and responsible decision-making.
+
+### **Soft Skill Training (SST)**
+
+The Soft Skill Training sessions focused on developing the communication and interpersonal skills required for a professional career. The sessions included topics such as resume preparation, professional communication, personality development, networking, interview preparation, teamwork, and effective presentation skills. The sessions also introduced the use of Artificial Intelligence tools for improving productivity and problem-solving while emphasizing the importance of critically evaluating AI-generated information.
+
+Overall, the LST and SST sessions helped me improve my **confidence, communication, interpersonal skills, professional behaviour, and career readiness**, complementing the technical knowledge gained during the course.
+
 
 ## **Community Services**
 
