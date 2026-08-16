@@ -20,7 +20,7 @@
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> Vishal Gowda V N </p>
     <p><strong>Email ID:</strong> vishalgowda.g4.25.vlsi@gmail.com </p>
-    <p><strong>College Name:</strong> Government engineering College, Hassan </p>
+    <p><strong>College Name:</strong> Government Engineering College, Hassan </p>
     <p><strong>Branch/Specialization :</strong> Electronics & Communication Engineering </p>
     <p><strong>College ID:</strong> 15932481 </p>
 </div>
