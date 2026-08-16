@@ -72,9 +72,9 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!--Serial Pattern Detection System with 1-Second BCD Display → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;Serial Pattern Detection System with 1-Second BCD Display &gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;Build-A-RV32I-Processor&gt;</p>
 
 
 <p><em>(You can add more projects as needed)</em></p>
@@ -82,17 +82,17 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1:  Serial Pattern Detection System with 1-Second BCD Display </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+ 
+This project involved designing and developing a basic functional module using the core concepts taught in the course. It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Build-A-RV32I-Processor </h3>
 <p>
   This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
   It enhanced understanding of UI/UX design, modular coding, and testing.
