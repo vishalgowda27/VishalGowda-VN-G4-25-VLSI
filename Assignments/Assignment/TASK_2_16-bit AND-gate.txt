@@ -1,0 +1,27 @@
+module and_gate(
+input[15:0]A,
+input[15:0]B,
+output[15:0]Y
+);
+
+and a0 (Y[0], A[0], B[0]);
+and a1 (Y[1], A[1], B[1]);
+and a2 (Y[2], A[2], B[2]);
+and a3 (Y[3], A[3], B[3]);
+and a4 (Y[4], A[4], B[4]);
+and a5 (Y[5], A[5], B[5]);
+and a6 (Y[6], A[6], B[6]);
+and a7 (Y[7], A[7], B[7]);
+and a8 (Y[8], A[8], B[8]);
+and a9 (Y[9], A[9], B[9]);
+and a10 (Y[10], A[10], B[10]);
+and a11 (Y[11], A[11], B[11]);
+and a12 (Y[12], A[12], B[12]);
+and a13 (Y[13], A[13], B[13]);
+and a14 (Y[14], A[14], B[14]);
+and a15(Y[15], A[15], B[15]);
+
+//Otherwise
+//assign Y = A & B;
+
+endmodule

@@ -1,0 +1,41 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 08.12.2025 21:57:48
+// Design Name: 
+// Module Name: checker
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module checker(
+    input       i_clk,
+    input       i_rst,
+    input [7:0] i_E,
+    input [7:0] i_F,
+    
+    output reg [31:0] o_checker
+);
+
+reg [7:0] i_E_d;
+
+    always @(posedge i_clk) begin
+        i_E_d<=i_E;
+            if(i_E_d == i_F) begin
+            o_checker = o_checker+1;
+            end
+    end
+endmodule
+
