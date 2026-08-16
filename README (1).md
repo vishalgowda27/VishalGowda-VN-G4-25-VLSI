@@ -138,10 +138,10 @@ During my internship period, I had the opportunity to participate in various com
 
 
 ### **Photos**
-<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/0e1f8a8c-732d-4355-b6c1-31015fb5c483" />
 
 
-<img width="893" height="1235" alt="vishal watering" src="https://github.com/user-attachments/assets/de224221-5580-4875-9f78-dfd6621989d6" />
+
+
 
 
 <!-- add your photos below -->
@@ -150,9 +150,8 @@ During my internship period, I had the opportunity to participate in various com
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/0e1f8a8c-732d-4355-b6c1-31015fb5c483" />
+<img width="893" height="1235" alt="vishal watering" src="https://github.com/user-attachments/assets/de224221-5580-4875-9f78-dfd6621989d6" />
 </div>
 
 ---
