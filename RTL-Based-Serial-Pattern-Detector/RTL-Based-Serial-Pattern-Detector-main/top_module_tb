@@ -1,0 +1,85 @@
+module top_module_tb;
+
+    // --------------------------------
+    // Testbench signals
+    // --------------------------------
+    reg i_clk;
+    reg i_rst;
+    reg i_en;
+
+    wire o_serial_out;
+    wire o_hit;
+
+    wire [6:0] seg_h;
+    wire [6:0] seg_t;
+    wire [6:0] seg_o;
+
+    wire [9:0] o_hit_count;
+    wire       o_hit_count_valid;
+
+    // --------------------------------
+    // DUT instantiation
+    // --------------------------------
+    top_module dut (
+        .i_clk                 (i_clk),
+        .i_rst                 (i_rst),
+        .i_en                  (i_en),
+        .o_serial_out          (o_serial_out),
+        .o_hit                 (o_hit),
+        .seg_h                 (seg_h),
+        .seg_t                 (seg_t),
+        .seg_o                 (seg_o),
+        .o_hit_count           (o_hit_count),
+        .o_hit_count_valid     (o_hit_count_valid)
+    );
+
+    // --------------------------------
+    // Clock generation
+    // 10 kHz clock → 100 us period
+    // --------------------------------
+    initial begin
+        i_clk = 1'b1;
+        forever #50000 i_clk = ~i_clk;
+    end
+
+    // --------------------------------
+    // Reset & enable
+    // --------------------------------
+    initial begin
+        i_rst = 1'b1;
+        i_en  = 1'b0;
+
+        #200000;   // 200 us
+        i_rst = 1'b0;
+
+        #100000;
+        i_en = 1'b1;
+    end
+
+    // --------------------------------
+    // SIMULATION-ONLY one_sec_pulse
+    // --------------------------------
+    initial begin
+        // wait for reset release
+        wait (i_rst == 1'b0);
+
+        forever begin
+            // wait 1 second (10,000 cycles @ 10 kHz)
+            #1000000000;
+
+            // pulse one_sec_pulse for 1 clock
+            force dut.one_sec_pulse = 1'b1;
+            @(posedge i_clk);
+            force dut.one_sec_pulse = 1'b0;
+        end
+    end
+
+    // --------------------------------
+    // Stop simulation
+    // --------------------------------
+    initial begin
+        #200000000;  
+        $stop;
+    end
+
+endmodule
