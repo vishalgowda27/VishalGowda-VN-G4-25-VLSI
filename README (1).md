@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/5a9dead0-5319-4473-9fe2-d546097febf6" /><div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
     <img
         width="180"
         height="220"
@@ -77,8 +77,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;Build-A-RV32I-Processor&gt;</p>
 
 
-<p><em>(You can add more projects as needed)</em></p>
-
 </div>
 
 <!-- Project 1 -->
@@ -140,7 +138,8 @@ During my internship period, I had the opportunity to participate in various com
 
 
 ### **Photos**
-![Uploading vishal plant.jpg…]()
+<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/0e1f8a8c-732d-4355-b6c1-31015fb5c483" />
+<img width="893" height="1235" alt="vishal watering" src="https://github.com/user-attachments/assets/de224221-5580-4875-9f78-dfd6621989d6" />
 
 
 <!-- add your photos below -->
