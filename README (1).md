@@ -159,6 +159,15 @@ During my internship period, I had the opportunity to participate in various com
 <img width="960" height="1280" alt="e3162168-c1e8-404e-a912-74e03726ff80" src="https://github.com/user-attachments/assets/f4b5ac6b-d5ed-4991-b99d-cd1c0f39956a" />
 <img width="960" height="1280" alt="4c490506-ab02-4962-9476-9b39480aee65" src="https://github.com/user-attachments/assets/69f98992-dee3-45e2-8a22-936db1adcc89" />
 
+<img width="960" height="1280" alt="85822857-16c7-4748-8b5e-663676522968 copy" src="https://github.com/user-attachments/assets/7dff4c2e-7c7b-4adf-a2aa-3d15f8ef20f4" />
+<img width="960" height="1280" alt="6ba0892b-041d-4a62-b761-1287339b645b copy" src="https://github.com/user-attachments/assets/5deda4a6-5f88-49ae-8345-893ae9d4e3a6" />
+<img width="960" height="1280" alt="c30bbf06-0e97-431b-b5aa-445fa307cffa copy" src="https://github.com/user-attachments/assets/d2422e5a-dd93-4ab0-9803-3225faf9dfdd" />
+<img width="960" height="1280" alt="37e8aaed-51d4-4df4-94b4-96b691fabbd6 copy" src="https://github.com/user-attachments/assets/ad6670fe-205a-4b53-b833-b677cc7565af" />
+<img width="960" height="1280" alt="597c2cb6-f0be-468e-a156-50f879ad23f0 copy" src="https://github.com/user-attachments/assets/5eb7a4bf-a802-4494-82dd-58d27540da7b" />
+<img width="960" height="1280" alt="0a4d09c1-c032-478d-b17a-535308bfd5f1" src="https://github.com/user-attachments/assets/51909ea7-7dae-459c-8a70-98f14bc913fe" />
+<img width="960" height="1280" alt="80acb421-8f5f-4d17-9ed9-2d40839d9dd9" src="https://github.com/user-attachments/assets/838353a6-c291-4bc3-9534-fc6ea49b7091" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/51100d0d-9bfa-44ae-84f7-d03f76df7d42" />
+
 </div>
 
 ---
