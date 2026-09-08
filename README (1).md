@@ -158,7 +158,6 @@ During my internship period, I had the opportunity to participate in various com
 <img width="960" height="1280" alt="daa22cd9-b266-417a-a1e8-40e1e6ec4a10" src="https://github.com/user-attachments/assets/24bbd5ad-1f18-4dd7-9d17-86f669685323" />
 <img width="960" height="1280" alt="e3162168-c1e8-404e-a912-74e03726ff80" src="https://github.com/user-attachments/assets/f4b5ac6b-d5ed-4991-b99d-cd1c0f39956a" />
 <img width="960" height="1280" alt="4c490506-ab02-4962-9476-9b39480aee65" src="https://github.com/user-attachments/assets/69f98992-dee3-45e2-8a22-936db1adcc89" />
-<img width="960" height="1280" alt="32cb14b7-14bb-478b-a6d8-bdc67862d79c" src="https://github.com/user-attachments/assets/522f9627-37c6-4dfb-8c75-7bade8e7ede6" />
 
 </div>
 
