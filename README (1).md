@@ -151,7 +151,8 @@ During my internship period, I had the opportunity to participate in various com
 
 <div align="center">
 <img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/0e1f8a8c-732d-4355-b6c1-31015fb5c483" />
-<img width="893" height="1235" alt="vishal watering" src="https://github.com/user-attachments/assets/de224221-5580-4875-9f78-dfd6621989d6" />
+<img width="893" height="1235" alt="vishal watering" src="https://github.com/user-attachments/assets/de224221-5580-4875-9f78-dfd6621989d6"/>
+<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/0e1f8a8c-732d-4355-b6c1-31015fb5c483" />
 </div>
 
 ---
