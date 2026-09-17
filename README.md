@@ -39,3 +39,7 @@ Branch Prediction
 BTB
 Cache Memory
 Larger RISC-V programs
+
+**The RISC-V Architecture**
+
+<img width="525" height="365" alt="RISC (1)" src="https://github.com/user-attachments/assets/b311355b-295b-48b6-a987-41188b2f8cba" />
