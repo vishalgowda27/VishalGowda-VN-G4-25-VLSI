@@ -40,6 +40,12 @@ BTB
 Cache Memory
 Larger RISC-V programs
 
+## Images
+
 **The RISC-V Architecture**
 
 <img width="525" height="365" alt="RISC (1)" src="https://github.com/user-attachments/assets/b311355b-295b-48b6-a987-41188b2f8cba" />
+
+**The RISC-V Block diagram**
+
+<img width="602" height="233" alt="Final_Prj" src="https://github.com/user-attachments/assets/0f10f893-d1f4-4465-af5d-829f7dded46f" />
