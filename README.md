@@ -19,11 +19,11 @@ A 32-bit RISC-V RV32I processor designed using Verilog HDL with a 5-stage pipeli
 
 ## Architecture
 
-```text
 IF → ID → EX → MEM → WB
      │     │     │
    Decode  ALU  Memory
-Tools
+
+## Tools
 Verilog HDL
 Icarus Verilog
 Verilator
@@ -33,7 +33,7 @@ Outcome
 
 Successfully implemented and functionally verified a 32-bit RV32I 5-stage pipelined RISC-V processor.
 
-Future Scope
+## Future Scope
 FPGA implementation
 Branch Prediction
 BTB
