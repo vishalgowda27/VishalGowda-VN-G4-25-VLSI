@@ -1,51 +1,191 @@
-# 32-bit RV32I 5-Stage Pipelined RISC-V Processor
+<div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+    <img
+        width="180"
+        height="220"
+        alt="Logo - SURE ProEd"
+        src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
+        style="border-radius: 10px;"
+    />
 
-A 32-bit RISC-V RV32I processor designed using Verilog HDL with a 5-stage pipeline:
+  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (formerly SURE Trust) 
+      </h1>
+<h2 style="color: #2b6cb0; font-family: Arial;">Skill Upgradation for Rural youth Empowerment Trust</h2>
+</div>
 
-**IF → ID → EX → MEM → WB**
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-## Features
+<div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-- 32-bit RV32I architecture
-- 5-stage pipelining
-- 37 supported instructions
-- ALU, Register File and Memory
-- Data Forwarding
-- Hazard Detection
-- JAL and JALR support
-- Verilog testbench
-- Simulation using Icarus Verilog / Verilator
-- Waveform verification using GTKWave
+<h2 style = "color:#333;"> Student Details </h2>
+<div align = "left" style ="margin: 20px; font-size: 16px;">
+    <p><strong>Name:</strong> Vishal Gowda V N </p>
+    <p><strong>Email ID:</strong> vishalgowda.g4.25.vlsi@gmail.com </p>
+    <p><strong>College Name:</strong> Government Engineering College, Hassan </p>
+    <p><strong>Branch/Specialization :</strong> Electronics & Communication Engineering </p>
+    <p><strong>College ID:</strong> 15932481 </p>
+</div>
 
-## Architecture
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-IF → ID → EX → MEM → WB
-     │     │     │
-   Decode  ALU  Memory
+<h2 style="color:#333;"> Course Details </h2>
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Course Opted:</strong> VLSI Designing </p>
+    <p><strong>Instructor Name:</strong> Razi Ahmed And DeviPrasad Mishra </p>
+</div>
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Duration:</strong> 6 Months </p>
 
-## Tools
-Verilog HDL
-Icarus Verilog
-Verilator
-GTKWave
-VS Code
-Outcome
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-Successfully implemented and functionally verified a 32-bit RV32I 5-stage pipelined RISC-V processor.
+<h2 style="color:#333;"> Trainer Details </h2>
+<div align="left" style="margin: 20px; font-size: 16px;">
 
-## Future Scope
-FPGA implementation
-Branch Prediction
-BTB
-Cache Memory
-Larger RISC-V programs
+<p><strong>Trainer Name:</strong> Razi Ahmed And DeviPrasad Mishra</p>
+<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
+<p><strong>Trainer Designation:</strong> RTL Design Engineer @PRSsemicon Technologies</p>
 
-## Images
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-**The RISC-V Architecture**
+## **Table of Contents**
+- [Course Learning](#course-learning-to-be-edited-by-student)
+- [Projects Completed](#projects-completed)
+- [Project Introduction](#project-introduction)
+- [Technologies Used](#technologies-used)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [Project Report](#project-report)
+- [Learnings from LST & SST](#learnings-from-lst--sst)
+- [Community Services](#community-services)
+- [Certificate](#certificate)
+- [Acknowledgments](#acknowledgments)
 
-<img width="525" height="365" alt="RISC (1)" src="https://github.com/user-attachments/assets/b311355b-295b-48b6-a987-41188b2f8cba" />
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-**The RISC-V Block diagram**
 
-<img width="602" height="233" alt="Final_Prj" src="https://github.com/user-attachments/assets/0f10f893-d1f4-4465-af5d-829f7dded46f" />
+## Overall Learning 
+
+> _This is a placeholder. Replace the text below with your personal learning summary._
+During this course, I learned the fundamentals of web development and project design.
+I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
+problem-solving, teamwork, documentation, and delivering real-world project solutions.
+
+
+<h2 style="color:#333;"> Projects Completed </h2>
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;Serial Pattern Detection System with 1-Second BCD Display &gt;</p>
+
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;Build-A-RV32I-Processor&gt;</p>
+
+
+</div>
+
+<!-- Project 1 -->
+<h3 id="project1">Project 1:  Serial Pattern Detection System with 1-Second BCD Display </h3>
+<p>
+ 
+This project involved designing and developing a basic functional module using the core concepts taught in the course. It focused on understanding requirements, creating structured code, and implementing key features.
+</p>
+
+
+<!-- Project 2 -->
+<h3 id="project2">Project 2: Build-A-RV32I-Processor </h3>
+<p>
+  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
+  It enhanced understanding of UI/UX design, modular coding, and testing.
+</p>
+
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
+
+## **References**
+
+- [Wikipedia](https://wikipedia.com)
+<!--you can add refrences over here in same syntax as above -->
+---
+
+
+## **Learnings from LST and SST**
+
+### **Life Skill Training (LST)**
+
+As part of the course, I attended Life Skill Training sessions that focused on personal development and building awareness of important skills required in both professional and everyday life. The sessions covered areas such as professional ethics, workplace behaviour, emotional intelligence, personality development, health and well-being, social responsibility, and effective interpersonal relationships. These sessions helped me develop a better understanding of professional conduct, self-awareness, emotional management, and responsible decision-making.
+
+### **Soft Skill Training (SST)**
+
+The Soft Skill Training sessions focused on developing the communication and interpersonal skills required for a professional career. The sessions included topics such as resume preparation, professional communication, personality development, networking, interview preparation, teamwork, and effective presentation skills. The sessions also introduced the use of Artificial Intelligence tools for improving productivity and problem-solving while emphasizing the importance of critically evaluating AI-generated information.
+
+Overall, the LST and SST sessions helped me improve my **confidence, communication, interpersonal skills, professional behaviour, and career readiness**, complementing the technical knowledge gained during the course.
+
+
+## **Community Services**
+
+During my internship period, I had the opportunity to participate in various community-oriented activities that encouraged social responsibility and active involvement in society. These activities provided valuable experiences beyond the technical aspects of the internship and helped me understand the importance of contributing positively to the community.
+
+### **Activities Involved**
+
+* **Blood Donation Drive** – Participated in a blood donation camp and contributed by donating blood and assisting with basic activities during the event.
+
+* **Tree Plantation Drive** – Took part in a tree plantation initiative by planting saplings and contributing towards environmental conservation and the development of greener surroundings.
+
+* **Supporting Elderly Citizens** – Assisted elderly individuals with basic daily activities and provided support wherever required, helping create a more comfortable and supportive environment for them.
+
+### **Impact / Contribution**
+
+* Contributed to the blood donation initiative and supported the smooth functioning of the camp.
+* Participated in environmental conservation through tree plantation activities.
+* Provided assistance and companionship to elderly citizens in their daily activities.
+* Developed a stronger sense of **social responsibility, empathy, teamwork, communication, and community involvement**.
+
+
+### **Photos**
+
+
+
+
+
+
+<!-- add your photos below -->
+<!-- change url below with your image urls (inside  src='')-->
+
+- These are just placeholder (sample) images <!-- remove this line -->
+
+<div align="center">
+<img width="1600" height="900" alt="vishal plant" src="https://github.com/user-attachments/assets/0e1f8a8c-732d-4355-b6c1-31015fb5c483" />
+<img width="893" height="1235" alt="vishal watering" src="https://github.com/user-attachments/assets/de224221-5580-4875-9f78-dfd6621989d6"/>
+<img width="960" height="1280" alt="a6044a0a-6bd9-4027-a22f-18c1bd803484" src="https://github.com/user-attachments/assets/b0789ffe-1142-49be-a5d6-f04a0fe12b66" />
+<img width="960" height="1280" alt="aa824a2c-efdf-45e6-9b24-9f2607159279" src="https://github.com/user-attachments/assets/5da98bfe-c5fb-41ed-a055-344c61713fda" />
+<img width="960" height="1280" alt="a759ef6b-3912-40dd-9dc1-614bb1a17f33" src="https://github.com/user-attachments/assets/dcc89e02-56a9-4529-9d8b-a7fe70b84bcc" />
+<img width="960" height="1280" alt="daa22cd9-b266-417a-a1e8-40e1e6ec4a10" src="https://github.com/user-attachments/assets/24bbd5ad-1f18-4dd7-9d17-86f669685323" />
+<img width="960" height="1280" alt="e3162168-c1e8-404e-a912-74e03726ff80" src="https://github.com/user-attachments/assets/f4b5ac6b-d5ed-4991-b99d-cd1c0f39956a" />
+<img width="960" height="1280" alt="4c490506-ab02-4962-9476-9b39480aee65" src="https://github.com/user-attachments/assets/69f98992-dee3-45e2-8a22-936db1adcc89" />
+
+<img width="960" height="1280" alt="85822857-16c7-4748-8b5e-663676522968 copy" src="https://github.com/user-attachments/assets/7dff4c2e-7c7b-4adf-a2aa-3d15f8ef20f4" />
+<img width="960" height="1280" alt="6ba0892b-041d-4a62-b761-1287339b645b copy" src="https://github.com/user-attachments/assets/5deda4a6-5f88-49ae-8345-893ae9d4e3a6" />
+<img width="960" height="1280" alt="c30bbf06-0e97-431b-b5aa-445fa307cffa copy" src="https://github.com/user-attachments/assets/d2422e5a-dd93-4ab0-9803-3225faf9dfdd" />
+<img width="960" height="1280" alt="37e8aaed-51d4-4df4-94b4-96b691fabbd6 copy" src="https://github.com/user-attachments/assets/ad6670fe-205a-4b53-b833-b677cc7565af" />
+<img width="960" height="1280" alt="597c2cb6-f0be-468e-a156-50f879ad23f0 copy" src="https://github.com/user-attachments/assets/5eb7a4bf-a802-4494-82dd-58d27540da7b" />
+<img width="960" height="1280" alt="0a4d09c1-c032-478d-b17a-535308bfd5f1" src="https://github.com/user-attachments/assets/51909ea7-7dae-459c-8a70-98f14bc913fe" />
+<img width="960" height="1280" alt="80acb421-8f5f-4d17-9ed9-2d40839d9dd9" src="https://github.com/user-attachments/assets/838353a6-c291-4bc3-9534-fc6ea49b7091" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/51100d0d-9bfa-44ae-84f7-d03f76df7d42" />
+
+</div>
+
+---
+
+## **Certificate**
+
+The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+
+<!-- add your certificate image url below (inside src='')-->
+
+<p align="center">
+<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+</p>
+
+---
+
+## **Acknowledgments**
+
+<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
